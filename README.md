@@ -6,7 +6,7 @@ I'm a *Computer Science Student* with a passion for developing scalable software
 - 🌱 *I’m currently learning:* Flutter, R, and other fun technologies.
 - 👯 *I’m looking to collaborate on:* Open-source projects and innovative tech solutions.
 - 💬 *Ask me about:* ReactJS, Python, Software Engineering, and more.
-- 📫 *How to reach me:* gurparvez04@gmail.com or [LinkedIn](www.linkedin.com/in/gurparvez-singh)
+- 📫 *How to reach me:* gurparvez04@gmail.com or [LinkedIn](https://www.linkedin.com/in/gurparvez-singh/)
 - ⚡ *Fun fact:* I'm always exploring new ways to solve problems efficiently.
 
 ## 🛠 My Tech Stack:
