@@ -20,7 +20,7 @@ I'm a *Computer Science Student* with a passion for developing scalable software
   - Python Programming Language (by SoloLearn, IIT Bombay)
 
 ## 💼 Education:
-- *Bachelor's in Computer Science* from *Abdul University*, Punjab, India (2022 - 2026)
+- *Bachelor's in Computer Science* from *Akal University*, Punjab, India (2022 - 2026)
 - *Senior Secondary* in Non-Medical from *Akal Academy Jaga Ram Tirath*, Punjab, India (2022)
 
 ## 🏆 Projects:
