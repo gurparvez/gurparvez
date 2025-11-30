@@ -1,4 +1,4 @@
-# Hi, I'm Gurparwez Singh 👋
+# Hi, I'm Gurparvez Singh 👋
 
 I'm a *Computer Science Student* with a passion for developing scalable software solutions and innovative technology products. I am currently seeking opportunities where I can apply my skills in software engineering and continue learning new technologies.
 
