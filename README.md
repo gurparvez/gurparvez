@@ -1,37 +1,38 @@
 # Hi, I'm Gurparvez Singh 👋
 
-I'm a *Computer Science Student* with a passion for developing scalable software solutions and innovative technology products. I am currently seeking opportunities where I can apply my skills in software engineering and continue learning new technologies.
+**Software Engineer · Full-Stack (React, Django)** — Punjab, India
 
-- 🔭 *I’m currently working on:* Several software projects aimed at digitalizing processes at my university.
-- 🌱 *I’m currently learning:* Flutter, R, and other fun technologies.
-- 👯 *I’m looking to collaborate on:* Open-source projects and innovative tech solutions.
-- 💬 *Ask me about:* ReactJS, Python, Software Engineering, and more.
-- 📫 *How to reach me:* gurparvez04@gmail.com or [LinkedIn](https://www.linkedin.com/in/gurparvez-singh/)
-- ⚡ *Fun fact:* I'm always exploring new ways to solve problems efficiently.
+I'm a Software Engineer at **JIVO Wellness**, building the factory management platform that runs an edible-oil plant from gate entry to dispatch and keeps it in sync with **SAP Business One**. I work full-stack across React and Django, and have built projects with Flutter, FastAPI, Express.js and AWS.
 
-## 🛠 My Tech Stack:
-- *Languages:* JavaScript, Python, R, SQL, C++, Dart
-- *Frameworks/Libraries:* ReactJS, ExpressJS, Django, FastApi, Flutter
-- *Databases:* MongoDB, PostgreSQL
-- *Tools & Platforms:* Git, Docker, AWS, Claudinary
-- *Certifications:*
-  - Full Stack Certificate (by RCPL)
-  - Databases for developers (by Oracle)
-  - Python Programming Language (by SoloLearn, IIT Bombay)
+🌐 [gurparvez.vercel.app](https://gurparvez.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/gurparvez-singh/) · 🧩 [LeetCode](https://leetcode.com/u/Gurparvez/) · 📫 gurparvez04@gmail.com
 
-## 💼 Education:
-- *Bachelor's in Computer Science* from *Akal University*, Punjab, India (2022 - 2026)
-- *Senior Secondary* in Non-Medical from *Akal Academy Jaga Ram Tirath*, Punjab, India (2022)
+## 💼 Experience
 
-## 🏆 Projects:
-- *[Search Through Video](https://github.com/gurparvez/searchThroughVideo)*: A web application that allows users to search for specific spoken phrases or lines within videos.
-- *[Examination Form (ERP)](https://github.com/gurparvez/examinationWeb):* A comprehensive web-based Examination Form Filling System for the university.
-- *[Attendance App](https://github.com/gurparvez/attendance_app):* A Flutter application designed to mark attendance using nearby share technology.
-- *[Data Porfiler](https://github.com/gurparvez/DataProfiler):* An R package designed for data profiling and performing Exploratory Data Analysis.
+**JIVO Wellness Pvt. Ltd.** — Software Engineer (Jul 2026 – Present) · Software Engineering Intern (Jan 2026 – Jun 2026)
 
-Feel free to explore my repositories and connect with me for collaboration on exciting projects.
+- Core contributor to an internal factory management platform that replaces paper registers and spreadsheets in an edible-oil plant: 1000+ commits across the React frontend and Django REST backend, spanning 15+ operational modules.
+- Integrated **SAP Business One** through its Service Layer API and HANA database, so goods receipts, stock and master data post to the ERP without manual double entry.
+- Built gate operations (raw material, finished goods, vehicle and visitor gate-in) with weighbridge readings tied to each entry, and warehouse management with lot-level barcodes and in-browser scanning for traceability from receipt to dispatch.
+- Own dispatch planning, production execution and quality control end to end, including real-time stock dashboards, working directly with the factory teams to turn on-ground workflows into software.
 
-<!---
-gurparvez/gurparvez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 Projects
+
+- **[AU Placements Portal](https://github.com/gurparvez/au_placements)** ([live](https://au-placements.vercel.app/)) — *React, TypeScript, Express.js, MongoDB, Gemini API*\
+  Recruitment platform for Akal and Eternal University: unified student profiles, Cloudinary-hosted resumes, and recruiter search by skills, availability and university. Google Gemini reads uploaded student ID cards and cross-checks them against the registration form, so only verified students get in.
+- **[AU Activity Record](https://github.com/gurparvez/au-activity-record)** ([live](https://au-activity-record.vercel.app/)) — *React, Redux Toolkit, Appwrite*\
+  Department HODs record academic and extracurricular activities; the IQAC reviews and approves them centrally, with role-based access, search and report export for audits and accreditation.
+- **[Attendance App](https://github.com/gurparvez/attendance_app)** — *Flutter, Nearby Connections API, Express.js, MongoDB*\
+  Cuts classroom attendance from ~10 minutes to under 1 by marking students peer-to-peer over Bluetooth/Nearby Share, with no internet needed.
+- **[Search Through Video](https://github.com/gurparvez/searchThroughVideo)** ([live](https://search-through-video.vercel.app/)) — *React, FastAPI, AWS*\
+  Search spoken phrases inside videos: AWS transcribes the upload, FastAPI binary-searches the timestamped transcript, and clicking a result plays the video from that moment.
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, TypeScript, JavaScript, Java, C++, SQL
+- **Frontend & Mobile:** React, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, Flutter
+- **Backend & Data:** Django, Django REST Framework, FastAPI, Node.js, Express.js, PostgreSQL, MongoDB, Redis
+- **Cloud & Tools:** AWS, Firebase, Appwrite, Docker, Git, Postman, Linux, SAP Business One (Service Layer, HANA)
+
+## 🎓 Education
+
+**Akal University, Talwandi Sabo** — B.Tech (Hons.), Computer Science & Engineering (Data Science), 2022 – 2026
